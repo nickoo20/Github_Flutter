@@ -20,5 +20,5 @@ The **GitHub Repositories Viewer** is a Flutter application that connects to the
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/nickoo20/github_flutter.git
-   cd github-repos-viewer
+   git clone https://github.com/nickoo20/Github_Flutter.git
+   cd Github_Flutter
