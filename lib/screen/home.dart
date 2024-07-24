@@ -14,8 +14,8 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Map<String, dynamic>> repos = [];
   bool isLoading = true;
   bool isError = false;
-
-  final String githubToken = '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';
+// 
+  final String githubToken = 'your_github_token_here'; 
 
   @override
   void initState() {
